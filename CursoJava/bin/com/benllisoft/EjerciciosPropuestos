@@ -1,0 +1,11 @@
+1.- Hacer un programa que pida la hora en formato de numeros enteros 0-24H y de acuerdo
+    a la hora introducida por el usuario de una saludo de buenos dias, buenas tardes o buenas noches
+    
+2.- Hacer un programa que pida el nombre y el apellido de un estudiante y la nota obtenida en un examen
+    y de acuerdo a la nota indique si aprobo o no el examen.
+    
+3.- Hacer un programa que Calcule la sumatoria de los números enteros del 1 al 100        
+
+4.- Hacer un programa que calucule independientemente la suma de los pares e impares comprendidos entre 1 y 50.
+
+5.- Hacer un programa que pida el precio de un producto por teclado(puede tener decimales) y calcule el precio final con IVA. El IVA sera una constante que sera del 12% 
